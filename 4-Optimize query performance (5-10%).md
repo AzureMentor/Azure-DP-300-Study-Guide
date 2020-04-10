@@ -3,7 +3,10 @@
 ## Review query plans
 
 * determine the appropriate type of execution plan
-  * live Query Statistics, Actual Execution Plan, Estimated Execution Plan, Showplan
+  * live Query Statistics
+  * Actual Execution Plan
+  * Estimated Execution Plan
+  * Showplan
 * identify problem areas in execution plans
 * extract query plans from the Query Store
 

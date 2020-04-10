@@ -14,19 +14,26 @@ database levels
 * implement statistics maintenance tasks
 * configure database auto-tuning
 * automate database maintenance tasks
-  * Azure SQL agent jobs, Azure automation, SQL server agent jobs
+  * Azure SQL agent jobs
+  * Azure automation
+  * SQL server agent jobs
 * manage storage capacity
 
 ## Identify performance-related issues
 * configure Query Store to collect performance data
 * identify sessions that cause blocking
 * assess growth/fragmentation of databases and logs
-* assess performance-related database configuration parameters
-  * including AutoClose, AutoShrink, AutoGrowth
+* assess performance-related database configuration parameters including:
+  * AutoClose
+  * AutoShrink
+  * AutoGrowth
 
 ## Configure resources for optimal performance
 * configure storage and infrastructure resources
-  * optimize IOPS, throughput, and latency
+  * optimize:
+    * IOPS
+    * throughput
+    * latency
   * optimize tempdb performance
   * optimize data and log files for performance
 * configure server and service account settings for performance
