@@ -1,4 +1,4 @@
-# DP-300: Administering Relational Databases on Microsoft Azure Study Guide
+# DP-300: Administering Microsoft Azure SQL Solutions Study Guide
 
 ## Skills measured
 1. [Plan and implement data platform resources (15-20%)](1-Plan%20and%20implement%20data%20platform%20resources%20(15-20%25).md)
