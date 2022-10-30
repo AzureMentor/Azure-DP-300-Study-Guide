@@ -11,10 +11,11 @@
 
 ## Hands-on study material at Microsoft Learn
 
+- [Introduction to Azure database administration](https://learn.microsoft.com/en-us/training/paths/introduction-to-azure-database-administration/)
 - [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
-- [Plan and implement data platform resources](https://docs.microsoft.com/en-us/learn/paths/plan-implement-data-platform-resources/)
-- [Implement a secure environment for a database service](https://docs.microsoft.com/en-us/learn/paths/implement-secure-environment-database-service/)
-- [Monitor and optimize operational resources in SQL Server](https://docs.microsoft.com/en-us/learn/paths/monitor-optimize-operational-resources-sql-server/)
-- [Optimize query performance in SQL Server](https://docs.microsoft.com/en-us/learn/paths/optimize-query-performance-sql-server/)
-- [Automate tasks in SQL Server](https://docs.microsoft.com/en-us/learn/paths/automate-tasks-sql-server/)
-- [Plan and implement a high availability and disaster recovery environment](https://docs.microsoft.com/en-us/learn/paths/plan-implement-high-availability-disaster-recovery-environment/)
+- [Plan and implement data platform resources](https://learn.microsoft.com/en-us/training/paths/plan-implement-data-platform-resources/)
+- [Implement a secure environment for a database service](https://learn.microsoft.com/en-us/training/paths/implement-secure-environment-database-service/)
+- [Monitor and optimize operational resources in Azure SQL](https://learn.microsoft.com/en-us/training/paths/monitor-optimize-operational-resources-sql-server/)
+- [Optimize query performance in Azure SQL](https://learn.microsoft.com/en-us/training/paths/optimize-query-performance-sql-server/)
+- [Automate database tasks for Azure SQL](https://learn.microsoft.com/en-us/training/paths/automate-tasks-sql-server/)
+- [Plan and implement a high availability and disaster recovery environment](https://learn.microsoft.com/en-us/training/paths/plan-implement-high-availability-disaster-recovery-environment/)
